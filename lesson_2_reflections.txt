@@ -1,3 +1,15 @@
 staging area is a temp buffer before you really commit your modification to current branch.
 
+I can make sure I have only one logical change in staging area.
 
+git diff command will present difference between working directory and staging area.
+
+git diff --satged will present difference bewtween staging area and repository(most recently commit)
+
+If I have to fix bug or experiment on something, I could create git branch
+
+                                       ----First pass at                                              adding coins-- 
+                                      /  
+---Fix typo in sapce --Revert Control/---I can't spell screen apparently--....Add "this.delayBeforeBullet = 10;" on Line 424--\
+      \
+       \---easy mode
