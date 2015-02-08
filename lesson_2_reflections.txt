@@ -1,0 +1,3 @@
+staging area is a temp buffer before you really commit your modification to current branch.
+
+

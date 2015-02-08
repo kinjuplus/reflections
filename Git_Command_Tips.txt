@@ -1,0 +1,10 @@
+Cloning a Repository
+git clone $url
+
+//Getting Colored Output
+git config --global color.ui auto
+
+git status
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
