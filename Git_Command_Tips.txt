@@ -14,3 +14,8 @@ git log --graph--oneline master %yourBranchName%
 git checkout -b branchname =
 1. git branch branchname
 2. git checkout branchname
+
+git branch -d branchname ==>remove branch label
+git show %commit id% ==>shows difference between commit and it parent
+
+git merge master %branch name% ==>merge branch into master
